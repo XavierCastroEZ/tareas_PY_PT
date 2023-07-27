@@ -6,8 +6,6 @@ es_verdadero = True
 
 resultado_concatenacion = cadena_texto + " - Número entero: " + str(numero_entero) + " - Número flotante: " + str(numero_flotante) + " - Valor booleano: " + str(es_verdadero)
 
-
-
 #  suma de los primeros n números pares es igual a n * (n + 1).
 
 n = 10
